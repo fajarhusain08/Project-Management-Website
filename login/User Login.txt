@@ -1,0 +1,13 @@
+email:admin@admin.com
+pass:admin123
+
+email:terawan@manager.com
+email:mega@manager.com
+pass:manager123
+
+email:budi@member.com
+email:sari@member.com
+pass:member123
+
+email:tiwi@pembina.com
+pass:pembina123
